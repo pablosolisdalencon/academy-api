@@ -9,3 +9,5 @@
 /.env
 /.scannerwork/
 /.phpunit.result.cache
+# Local Netlify folder
+.netlify
