@@ -1,3 +1,3 @@
 [build]
-  command = "cp .env.example .env; composer install; composer restart-db; npm run build"  # Cambia esto según tu configuración
+  command = "cp .env.example .env; composer install; composer restart-db"  # Cambia esto según tu configuración
   functions = "public"  # Ruta a tus funciones de API
